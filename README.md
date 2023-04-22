@@ -1,5 +1,6 @@
 # advanced_todo_app
 
+this is a simple  meal app for showing meals  form local data and filter data with main category and  filters screen.
 
 ![Capture](https://user-images.githubusercontent.com/96310108/228020601-33bb289b-b29f-4baa-8f69-3ed95aab8771.PNG)
 ![Capture](https://user-images.githubusercontent.com/96310108/228020729-006b540e-05ce-49c4-afe7-3af3810c6f3d.PNG)
